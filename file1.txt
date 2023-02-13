@@ -1,1 +1,1 @@
-hello all
+version 1.0
